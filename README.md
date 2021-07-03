@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sayan-sarkar007
 - 👀 I’m interested in all kind of new technologies
 - 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on any industrial or product base company
+- 💞️ I’m looking to collaborate with any industrial or product base company
 - 📫 email - sayansarkar151@gmail.com
 
 <!---
